@@ -64,7 +64,7 @@ input {
   height: 45px;
   border-radius: 28px;
   opacity: 0px;
-  background:#413fac;
+  background: linear-gradient(#413fac, #181750);
 
   color: white;
 
